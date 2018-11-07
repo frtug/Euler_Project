@@ -3,8 +3,11 @@ def factor():
     max =0
     for i in range(2,x):
         if x%i == 0:
-             print(i)
-             x = x/i
+           print(i)
+           if i >max:
+             max = i
+           
+           x = x/i
     print('max',str(max))
 
     
