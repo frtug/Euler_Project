@@ -1,4 +1,4 @@
-# Euler_Project
+# Euler_Project solved
 Solve the problems related to the euler's problem
 
 # I am Looking for an Optimized solution 
